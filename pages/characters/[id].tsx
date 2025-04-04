@@ -77,13 +77,13 @@ const Button = styled.button`
     width: 330px;
     height: 60px;
     border: none;
-    cursor: pointer;
     border-radius: 4px;
     background: rgba(242, 183, 251, 0.98);
 
     &:hover {
         background: #c55fe6;
         color: #fff;
+        cursor: pointer;
     }
 `
 
